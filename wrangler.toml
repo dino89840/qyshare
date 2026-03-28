@@ -1,0 +1,6 @@
+name = "qyshare-keeper"
+compatibility_date = "2024-12-01"
+
+[[kv_namespaces]]
+binding = "LINKS_KV"
+id = "494cb677cbba4c999d4cd540a62907de"
